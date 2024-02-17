@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 TVG-LOGO="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSlkT5fJUzUc4eKFuJFVgr9hJzS8mdvH5vw&usqp=CAU" GROUP-TITLE="TELEVISION EN VIVO", MULTIPLAY
+http://estoestv.com:8080/get.php?username=leonardo2302&password=multiplaytv
