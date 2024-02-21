@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-0 TVG-LOGO="" GROUP-TITLE"", BLACKGHOST TV 01
-http://bgtv.site/243/?tv1
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE"", BLACKGHOST TV 01
+https://raw.githubusercontent.com/LeonCanales/TELEVISION/main/BLACKGHOST%20TV%2001.M3U
 
 #EXTINF:-1 TVG-LOGO="" GROUP-TITLE"", BLACKGHOST TV 02
 http://bgtv.site/243/?tv2
